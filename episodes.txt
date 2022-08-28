@@ -1,0 +1,222 @@
+1a	1a	"DeeDeemensional"	Rob Renzetti & Genndy Tartakovsky	Rob Renzetti	April 27, 1996 (TNT)[1]April 28, 1996 (TBS/Cartoon Network)[2]	102a
+1b	1b	"Dial M for Monkey: Magmanamus"	Paul Rudish & Genndy Tartakovsky	Craig McCracken	April 27, 1996 (TNT)[1]April 28, 1996 (TBS/Cartoon Network)[2]	102b
+1c	1c	"Maternal Combat"	Rob Renzetti & Genndy Tartakovsky	Rob Renzetti	April 27, 1996 (TNT)[1]April 28, 1996 (TBS/Cartoon Network)[2]	102c
+2a	2a	"Dexter Dodgeball"	Craig McCracken & Genndy Tartakovsky	Ricky Nierva	May 4, 1996 (TNT)May 5, 1996 (TBS/Cartoon Network)	103a
+2b	2b	"Dial M for Monkey: Rasslor"	Paul Rudish & Genndy Tartakovsky	Paul Rudish	May 4, 1996 (TNT)May 5, 1996 (TBS/Cartoon Network)	103b
+2c	2c	"Dexter's Assistant"	Rob Renzetti & Genndy Tartakovsky	Brett Varon & Craig McCracken	May 4, 1996 (TNT)May 5, 1996 (TBS/Cartoon Network)	103c
+3a12a	3a12a	"Dexter's Rival"	Genndy Tartakovsky	Genndy Tartakovsky	May 11, 1996 (TNT)May 12, 1996 (TBS/Cartoon Network)December 25, 1996 (rerun)	101a112a
+3b	3b	"Dial M for Monkey: Simion"	Paul Rudish & Genndy Tartakovsky	Lou Romano	May 11, 1996 (TNT)May 12, 1996 (TBS/Cartoon Network)	101b
+3c	3c	"Old Man Dexter"	Craig McCracken & Genndy Tartakovsky	Craig McCracken	May 11, 1996 (TNT)May 12, 1996 (TBS/Cartoon Network)	101c
+4a	4a	"Double Trouble"	Rob Renzetti & Genndy Tartakovsky	Butch Hartman	May 18, 1996 (TNT)May 19, 1996 (TBS/Cartoon Network)	104a
+4b	4b	"Dial M for Monkey: Barbequor"	Paul Rudish & Genndy Tartakovsky	Paul Rudish	May 18, 1996 (TNT)May 19, 1996 (TBS/Cartoon Network)	104b
+4c	4c	"Changes[6]"	Genndy Tartakovsky	TBA	May 18, 1996 (TNT)May 19, 1996 (TBS/Cartoon Network)	104c
+5a	5a	"Jurassic Pooch"	Craig McCracken & Genndy Tartakovsky	Butch Hartman & Conrad Vernon	May 25, 1996 (TNT)May 26, 1996 (TBS/Cartoon Network)	106a
+5b	5b	"Dial M for Monkey: Orgon Grindor"	Paul Rudish & Genndy Tartakovsky	Lou Romano & Mike Fontanelli	May 25, 1996 (TNT)May 26, 1996 (TBS/Cartoon Network)	106b
+5c	5c	"Dimwit Dexter"	Genndy Tartakovsky	C. Miles Thompson	May 25, 1996 (TNT)May 26, 1996 (TBS/Cartoon Network)	106c
+6a	6a	"Dee Dee's Room"	Genndy Tartakovsky	Teddy Newton & Todd Fredericksen	June 1, 1996 (TNT)June 2, 1996 (TBS/Cartoon Network)	105a
+6b	6b	"Dial M for Monkey: Huntor"	Paul Rudish & Genndy Tartakovsky	Paul Rudish	June 1, 1996 (TNT)June 2, 1996 (TBS/Cartoon Network)	105b
+6c	6c	"The Big Sister"	Genndy Tartakovsky	TBA	June 1, 1996 (TNT)June 2, 1996 (TBS/Cartoon Network)	105c
+7a	7a	"Star Spangled Sidekicks"	Genndy Tartakovsky	Genndy Tartakovsky	November 20, 1996	107a
+7b	7b	"The Justice Friends: TV Super Pals"	Craig McCracken & Genndy Tartakovsky	Craig McCracken	November 20, 1996	107b
+7c	7c	"Game Over"	Craig McCracken & Genndy Tartakovsky	Craig McCracken	November 20, 1996	107c
+8a	8a	"Babysitter Blues"	Craig McCracken & Rob Renzetti	Craig McCracken	November 27, 1996	111a
+8b	8b	"The Justice Friends: Valhallen's Room"	Genndy Tartakovsky	Paul Rudish & Butch Hartman	November 27, 1996	111b
+8c	8c	"Dream Machine"	Rob Renzetti & Genndy Tartakovsky	Don Shank	November 27, 1996	111c
+9a	9a	"Dollhouse Drama"	Rob Renzetti	Rob Renzetti	December 4, 1996	108a
+9b	9b	"The Justice Friends: Krunk's Date"	Genndy Tartakovsky	Butch Hartman	December 4, 1996	108b
+9c	9c	"The Big Cheese"	Genndy Tartakovsky	Charlie Bean	December 4, 1996	108c
+10a	10a	"Way of the Dee Dee"	Paul Rudish & Genndy Tartakovsky	Paul Rudish	December 11, 1996	110a
+10b	10b	"The Justice Friends: Say Uncle Sam"	Genndy Tartakovsky	Butch Hartman	December 11, 1996	110b
+10c	10c	"Tribe Called Girl"	Rob Renzetti & Genndy Tartakovsky	Don Shank	December 11, 1996	110c
+11a	11a	"Spacecase"	Rob Renzetti & Genndy Tartakovsky	Ricky Nierva	December 18, 1996	109a
+11b	11b	"The Justice Friends: Ratman"	Genndy Tartakovsky	Charlie Bean	December 18, 1996	109b
+11c	11c	"Dexter's Debt"	Genndy Tartakovsky	Charlie Bean	December 18, 1996	109c
+12b	12b	"The Justice Friends: Bee Where?"	Paul Rudish & Genndy Tartakovsky	Butch Hartman & Craig McCracken	December 25, 1996	112b
+12c	12c	"Mandarker"	Genndy Tartakovsky	Lou Romano	December 25, 1996	112c
+13a	13a	"Inflata Dee Dee"	Genndy Tartakovsky	Genndy Tartakovsky	January 1, 1997	113a
+13b	13b	"The Justice Friends: Can't Nap"	Genndy Tartakovsky	Butch Hartman	January 1, 1997	113b
+13c	13c	"Monstory"	Rob Renzetti & Genndy Tartakovsky	Don Shank	January 1, 1997	113c
+14a	1a	"Beard to Be Feared"	Genndy Tartakovsky	Jason Butler Rote	Paul Rudish	July 16, 1997[7]	202a (34-5418)
+14b	1b	"Quackor the Fowl"	Genndy Tartakovsky	Jason Butler Rote	Genndy Tartakovsky	July 16, 1997[7]	202b (34-5406)
+14c	1c	"Ant Pants"	Genndy Tartakovsky	Jason Butler Rote	Butch Hartman	July 16, 1997[7]	202c (34-5401)
+15a	2a	"Mom and Jerry"	Robert Alvarez	Jason Butler Rote	Andy Bialk & Paul Rudish	July 23, 1997	201a (34-5417)
+15b	2b	"Chubby Cheese"	Rob Renzetti	Jason Butler Rote	David Smith	July 23, 1997	201b (34-5403)
+15c	2c	"That Crazy Robot"	Rob Renzetti	Jason Butler Rote	Andy Bialk	July 23, 1997	201c (34-5409)
+16a	3a	"D & DD (also known as "Siblings and Sorcery")[8]"	Genndy Tartakovsky	Jason Butler Rote	Paul Rudish	July 30, 1997	203a (34-5405)
+16b	3b	"Hamhocks and Armlocks"	Rob Renzetti & Genndy Tartakovsky	Jason Butler Rote	Craig McCracken	July 30, 1997	203b (34-5416)
+17a	4a	"Hunger Strikes"	Rob Renzetti	Zeke Kamm	Ace Conrad	August 6, 1997	205a (34-5420)
+17b	4b	"The Koos Is Loose"	Robert Alvarez	Zeke Kamm	David Smith	August 6, 1997	205b (34-5413)
+17c	4c	"Morning Stretch"	Rob Renzetti	Zeke Kamm	Ace Conrad & Genndy Tartakovsky	August 6, 1997	205c (34-5422)
+18a	5a	"Dee Dee Locks and the Ness Monster"	Robert Alvarez & Genndy Tartakovsky	Zeke Kamm	Paul Rudish	August 13, 1997	204a (34-5426)
+18b	5b	"Backfire"	Rob Renzetti	Zeke Kamm	Nora Johnson	August 13, 1997	204b (34-5425)
+18c	5c	"Book 'Em"	Robert Alvarez	Zeke Kamm	Greg Miller & Genndy Tartakovsky	August 13, 1997	204c (34-5423)
+19a	6a	"Sister's Got a Brand New Bag"	Genndy Tartakovsky	TBA	Jeff DeGrandis & Genndy Tartakovsky	August 20, 1997	207a (34-5428)
+19b	6b	"Shoo, Shoe Gnomes"	Rob Renzetti	TBA	Mike Stern	August 20, 1997	207b (34-5414)
+19c	6c	"Lab of the Lost"	Genndy Tartakovsky	TBA	C. Miles Thompson & Butch Hartman	August 20, 1997	207c (34-5402)
+20a	7a	"Labels"	Rob Renzetti	Zeke Kamm	Kevin Kaliher	August 27, 1997	206a (34-5429)
+20b	7b	"Game Show"	Robert Alvarez	Zeke Kamm	Butch Hartman	August 27, 1997	206b (34-5412)
+20c	7c	"Fantastic Boyage"	Robert Alvarez	Zeke Kamm	Daniel Krall	August 27, 1997	206c (34-5424)
+21a	8a	"Filet of Soul"	Genndy Tartakovsky	TBA	Mike Stern	September 3, 1997	211a (34-5408)
+21b	8b	"Golden Diskette"	Genndy Tartakovsky	TBA	David Smith	September 3, 1997	211b (34-5412)
+22a	9a	"Snowdown"	Robert Alvarez & Genndy Tartakovsky	TBA	Craig McCracken	September 10, 1997	212a (34-5415)
+22b	9b	"Figure Not Included"	Rob Renzetti	TBA	Butch Hartman	September 10, 1997	212b (34-5411)
+22c	9c	"Mock 5"	Rob Renzetti & Genndy Tartakovsky	TBA	Craig McCracken	September 10, 1997	212c (34-5407)
+23a	10a	"Ewww That's Growth"	Rob Renzetti	Zeke Kamm	Mike Stern	September 17, 1997	208a (34-5427)
+23b	10b	"Nuclear Confusion"	Robert Alvarez	Zeke Kamm	Butch Hartman	September 17, 1997	208b (34-5421)
+23c	10c	"Germ Warfare"	Robert Alvarez & Genndy Tartakovsky	Zeke Kamm	Ace Conrad & Genndy Tartakovsky	September 17, 1997	208c (34-5434)
+24a	11a	"A Hard Day's Day"	Rob Renzetti	TBA	Craig McCracken	September 24, 1997	210a (34-5430)
+24b	11b	"Road Rash"	Rob Renzetti	TBA	Nora Johnson	September 24, 1997	210b (34-5436
+24c	11c	"Ocean Commotion"	Rob Renzetti	TBA	Kevin Kaliher	September 24, 1997	210c (34-5419)
+25a	12a	"The Bus Boy"	Rob Renzetti & Genndy Tartakovsky	Zeke Kamm	Don Shank	October 1, 1997	209a (34-5442)
+25b	12b	"The Justice Friends: Things That Go Bonk in the Night"	Genndy Tartakovsky	Zeke Kamm	Craig McCracken	October 1, 1997	209b (34-5435)
+25c	12c	"Ol' McDexter"	Robert Alvarez & Genndy Tartakovsky	Zeke Kamm	Mike Stern	October 1, 1997	209c (34-5438)
+26a	13a	"Sassy Come Home"	Genndy Tartakovsky	Zeke Kamm	David Smith	October 8, 1997	213a (34-5439)
+26b	13b	"Photo Finish"	Robert Alvarez & Genndy Tartakovsky	Zeke Kamm	Don Shank	October 8, 1997	213b (34-5433)
+27a	14a	"Star Check Unconventional"	Rob Renzetti	Zeke Kamm	Paul Rudish	October 15, 1997	215a (34-5432)
+27b	14b	"Dexter Is Dirty"	Genndy Tartakovsky	Zeke Kamm	Greg Emison & Genndy Tartakovsky	October 15, 1997	215b (34-5447)
+27c	14c	"Ice Cream Scream"	Robert Alvarez	Zeke Kamm	Kevin Kaliher	October 15, 1997	215c (34-5449)
+28a	15a	"Decode of Honor"	Robert Alvarez & Genndy Tartakovsky	Zeke Kamm	Craig McCracken	October 22, 1997	214a (34-5437)
+28b	15b	"World's Greatest Mom"	Rob Renzetti	Zeke Kamm	Andy Bialk	October 22, 1997	214b (34-5443)
+28c	15c	"Ultrajerk 2000"	John McIntyre	Zeke Kamm	Daniel Krall	October 22, 1997	214c (34-5445)
+29a	16a	"Techno Turtle"	Rob Renzetti	Jeffrey Delman, Laura Glendinning & Zeke Kamm	Rob Renzetti	October 29, 1997	216a (34-5441)
+29b	16b	"Surprise!"	Robert Alvarez	Jeffrey Delman, Laura Glendinning & Zeke Kamm	Andy Bialk	October 29, 1997	216b (34-5451)
+29c	16c	"Got Your Goat"	Robert Alvarez & Genndy Tartakovsky	Jeffrey Delman, Laura Glendinning & Zeke Kamm	Nora Johnson	October 29, 1997	216c (34-5444)
+30a	17a	"Dee Dee Be Deep"	Genndy Tartakovsky	Zeke Kamm	Chris Savino	November 5, 1997	218a (34-5454)
+30b	17b	"911"	Rob Renzetti & Genndy Tartakovsky	Zeke Kamm	Ace Conrad & Genndy Tartakovsky	November 5, 1997	218b (34-5446)
+30c	17c	"Down in the Dumps"	Robert Alvarez	Zeke Kamm	Kevin Kaliher	November 5, 1997	218c (34-5456)
+31a	18a	"Unfortunate Cookie"	Robert Alvarez & Genndy Tartakovsky	TBA	Kevin Kaliher	November 12, 1997	217a (34-5440)
+31b	18b	"The Muffin King"	Genndy Tartakovsky	TBA	Mike Stern	November 12, 1997	217b (34-5450)
+32a	19a	"Picture Day"	Genndy Tartakovsky	TBA	David Smith	November 19, 1997	219a (34-5455)
+32b	19b	"Now That's a Stretch"	Genndy Tartakovsky	TBA	Nora Johnson	November 19, 1997	219b (34-5453)
+32c	19c	"Dexter Detention"	Rob Renzetti	TBA	David Smith & Christopher Battle	November 19, 1997	219c (34-5431)
+33a	20a	"Don't Be a Baby"	Robert Alvarez & Genndy Tartakovsky	TBA	Mike Stern	November 26, 1997	221a (34-5457)
+33b	20b	"Dial M for Monkey: Peltra"	Genndy Tartakovsky	TBA	Paul Rudish	November 26, 1997	221b (34-5458)
+33c	20c	"G.I.R.L. Squad"	Rumen Petkov	TBA	Andy Bialk	November 26, 1997	221c (34-5459)
+34a	21a	"Sports a Poppin'"	Rob Renzetti & Genndy Tartakovsky	TBA	Douglas McCarthy & Genndy Tartakovsky	December 3, 1997	222a (34-5463)
+34b	21b	"Koosalagoopagoop"	Genndy Tartakovsky	TBA	David Smith	December 3, 1997	222b (34-5462)
+34c	21c	"Project Dee Dee"	Robert Alvarez	TBA	Chris Savino	December 3, 1997	222c (34-5460)
+35a	22a	"Topped Off"	Genndy Tartakovsky	TBA	Chris Savino	January 14, 1998	220a (34-5465)
+35b	22b	"Dee Dee's Tail"	Rumen Petkov	TBA	Kevin Kaliher	January 14, 1998	220b (34-5464)
+35c	22c	"No Power Trip"	Rob Renzetti	TBA	Christopher Battle	January 14, 1998	220c (34-5466)
+36a	23a	"Sister Mom"	Rob Renzetti & Genndy Tartakovsky	Paul Harrison	Craig McCracken	January 21, 1998	227a (34-5461)
+36b	23b	"The Laughing"	Robert Alvarez & Genndy Tartakovsky	Paul Harrison	Bryan Maille & Genndy Tartakovsky	January 21, 1998	227b (34-5452)
+37a	24a	"Dexter's Lab: A Story"	Genndy Tartakovsky	Sami Rank & Michael Ryan	Paul Rudish	January 28, 1998	224a (34-5467)
+37b	24b	"Coupon for Craziness"	Rumen Petkov	Sami Rank & Michael Ryan	Chris Savino	January 28, 1998	224b (34-5476)
+37c	24c	"Better Off Wet"	John McIntyre	Sami Rank & Michael Ryan	Andy Bialk	January 28, 1998	224c (34-5468)
+38a	25a	"Critical Gas"	Rumen Petkov	Michael Ryan	Mike Stern	February 4, 1998	226a (34-5474)
+38b	25b	"Let's Save the World You Jerk!"	John McIntyre	Michael Ryan	Kevin Kaliher	February 4, 1998	226b (34-5473)
+38c	25c	"Average Joe"	Rumen Petkov	Michael Ryan	David Smith	February 4, 1998	226c (34-5470)
+39a	26a	"Rushmore Rumble"	Genndy Tartakovsky	Seth MacFarlane	Genndy Tartakovsky	February 11, 1998	223a (34-5472)
+39b	26b	"A Boy and His Bug"	John McIntyre	Seth MacFarlane	Genndy Tartakovsky	February 11, 1998	223b (34-5471)
+39c	26c	"You Vegetabelieve It!"	Rumen Petkov	Seth MacFarlane	Bob Staake	February 11, 1998	223c (34-5475)
+40a	27a	"Aye Aye Eyes"	Genndy Tartakovsky	TBA	Craig McCracken	February 18, 1998	225a (34-5448)
+40b	27b	"Dee Dee and the Man"	John McIntyre & Genndy Tartakovsky	TBA	Craig McCracken	February 18, 1998	225b (34-5479)
+41a	28a	"Old Flame"	Genndy Tartakovsky	Michael Ryan	Paul Rudish	February 25, 1998	229a (34-5480)
+41b	28b	"Don't Be a Hero"	Rumen Petkov	Michael Ryan	Mike Stern	February 25, 1998	229b (34-5483)
+41c	28c	"My Favorite Martian"	John McIntyre	Michael Ryan	Andy Bialk	February 25, 1998	229c (34-5477)
+42a	29a	"Paper Route Bout"	John McIntyre	Michael Ryan	Daniel Krall	March 4, 1998	230a (34-5485)
+42b	29b	"The Old Switcharooms"	John McIntyre	Michael Ryan	Kevin Kaliher	March 4, 1998	230b (34-5485)
+42c	29c	"Trick or Treehouse"	Rumen Petkov	Michael Ryan	David Smith	March 4, 1998	230c (34-5478)
+43a	30a	"Quiet Riot"	Rumen Petkov & Genndy Tartakovsky	Michael Ryan	Chris Savino	March 11, 1998	231a (34-5489)
+43b	30b	"Accent You Hate"	John McIntyre	Michael Ryan	David Smith	March 11, 1998	231b (34-5486)
+43c	30c	"Catch of the Day"	Rumen Petkov	Michael Ryan	Bob Staake	March 11, 1998	231c (34-5487)
+44a	31a	"Dad Is Disturbed"	John McIntyre	TBA	John McIntyre	March 18, 1998	232a (34-5494)
+44b	31b	"Framed"	Genndy Tartakovsky	TBA	Kevin Kaliher	March 18, 1998	232b (34-5493)
+44c	31c	"That's Using Your Head"	John McIntyre	TBA	Clayton McKenzie Morrow	March 18, 1998	232c (34-5488)
+45a	32a	"DiM"	Genndy Tartakovsky	Michael Ryan	Craig McCracken	March 25, 1998	233a (34-5501)
+45b	32b	"Just an Old-Fashioned Lab Song..."	John McIntyre	Michael Ryan	David Smith	March 25, 1998	233b (34-5497)
+45c	32c	"Repairanoid"	Rumen Petkov	Michael Ryan	Greg Miller	March 25, 1998	233c (34-5498)
+46a	33a	"Sdrawkcab"	John McIntyre	Seth MacFarlane	Clayton McKenzie Morrow	April 1, 1998	236a (34-5500)
+46b	33b	"The Continuum of Cartoon Fools"	Rumen Petkov & Genndy Tartakovsky	Seth MacFarlane	Don Shank	April 1, 1998	236b (34-5499)
+46c	33c	"Sun, Surf, and Science"	Rumen Petkov & Genndy Tartakovsky	Seth MacFarlane	Mike Stern	April 1, 1998	236c (34-5491)
+47a	34a	"Big Bots"	Rumen Petkov & Genndy Tartakovsky	Seth MacFarlane	Craig McCracken	April 8, 1998	228a (34-5469)
+47b	34b	"Gooey Aliens That Control Your Mind"	Rumen Petkov & Genndy Tartakovsky	Seth MacFarlane	Todd Frederiksen & Genndy Tartakovsky	April 8, 1998	228b (34-5481)
+47c	34c	"Misplaced in Space"	Genndy Tartakovsky	Seth MacFarlane	Chris Savino	April 8, 1998	228c (34-5481)
+48a	35a	"Dee Dee's Rival"	Rumen Petkov & Genndy Tartakovsky	TBA	Chris Savino	April 15, 1998	235a (34-5505)
+48b	35b	"Pslyghtly Psycho"	John McIntyre & Genndy Tartakovsky	TBA	Daniel Krall	April 15, 1998	235b (34-5504)
+48c	35c	"Game for a Game"	Rumen Petkov	TBA	Greg Miller	April 15, 1998	235c (34-5509)
+49a	36a	"Blackfoot and Slim"	John McIntyre	Seth MacFarlane	Chris Savino	April 22, 1998	237a (34-5496)
+49b	36b	"Trapped with a Vengeance"	Genndy Tartakovsky	Seth MacFarlane	Todd Frederiksen & Genndy Tartakovsky	April 22, 1998	237b (34-5490)
+49c	36c	"The Parrot Trap"	Rumen Petkov & Genndy Tartakovsky	Seth MacFarlane	Mark O'Hare	April 22, 1998	237c (34-5495)
+50a	37a	"Dexter and Computress Get Mandark!"	John McIntyre	Tyler Samuel Lee	John McIntyre	April 29, 1998	234a (34-5508)
+50b	37b	"The Justice Friends: Pain in the Mouth"	Genndy Tartakovsky	TBA	Genndy Tartakovsky	April 29, 1998	234b (34-5503)
+50c	37c	"Dexter vs. Santa's Claws"	Rumen Petkov & Genndy Tartakovsky	TBA	Kevin Kaliher	April 29, 1998	234c (34-5502)
+51a	38a	"Dyno-Might"	Genndy Tartakovsky	Michael Ryan	Paul Rudish	May 6, 1998	238a (34-5492)
+51b	38b	"LABretto"	Genndy Tartakovsky	Michael Ryan	David Smith	May 6, 1998	238b (34-5507)
+52	39	"Last But Not Beast"	Genndy Tartakovsky	TBA	Paul Rudish, Craig McCracken & Genndy Tartakovsky	June 15, 1998	239 (34-5506)
+
+53a	1a	"Streaky Clean"	Robert Alvarez & Chris Savino	Walt Dohrn	November 16, 2001	302a
+53b	1b	"A Dad Cartoon"	John McIntyre & Chris Savino	John McIntyre	November 16, 2001	302b
+53c	1c	"Sole Brother"	John McIntyre & Chris Savino	Clayton McKenzie Morrow	November 16, 2001	302c
+54a	2a	"Mind Over Chatter"	Robert Alvarez & Chris Savino	Cindy Morrow	November 16, 2001	301a
+54b	2b	"A Quackor Cartoon"	Chris Savino	Chris Savino	November 16, 2001	301b
+54c	2c	"Momdark"	John McIntyre & Chris Savino	Cindy Morrow	November 16, 2001	301c
+55a	3a	"Copping an Aptitude"	John McIntyre & Chris Savino	Kevin Kaliher	November 30, 2001	304a
+55b	3b	"A Failed Lab Experiment"	Chris Savino	Chris Savino	November 30, 2001	304b
+55c	3c	"The Grand-Daddy of All Inventions"	John McIntyre & Chris Savino	Clayton McKenzie Morrow	November 30, 2001	304c
+56a	4a	"Poppa Wheely"	John McIntyre & Chris Savino	Mike Stern	January 18, 2002	303a
+56b	4b	"A Mom Cartoon"	Chris Savino	Chris Savino	January 18, 2002 (original)	303b
+56c	4c	"The Mock Side of the Moon"	John McIntyre & Chris Savino	Clayton McKenzie Morrow	January 18, 2002	303c
+57a	5a	"If Memory Serves"	Robert Alvarez & Chris Savino	Cindy Morrow	February 22, 2002	306a
+57b	5b	"A Mandark Cartoon"	Chris Savino	Chris Savino	February 22, 2002	306b
+57c	5c	"Tele Trauma"	John McIntyre & Chris Savino	John McIntyre	February 22, 2002	306c
+58a	6a	"A Boy Named Sue"	John McIntyre & Chris Savino	Walt Dohrn	March 29, 2002	305a
+58b	6b	"Lab on the Run"	John McIntyre & Chris Savino	David Smith	March 29, 2002	305b
+59a	7a	"Dos Boot"	Chris Savino	Walt Dohrn	June 7, 2002	307a
+59b	7b	"A Dee Dee Cartoon"	Robert Alvarez & Chris Savino	Anna Chambers	June 7, 2002	307b
+59c	7c	"Would You Like That in the Can"	John McIntyre & Chris Savino	Paul McEvoy	June 7, 2002	307c
+60a	8a	"That Magic Moment"	John McIntyre & Chris Savino	Paul McEvoy	June 14, 2002	308a
+60b	8b	"A Silent Cartoon"	Chris Savino	Chris Savino	June 14, 2002	308b
+60c	8c	"Opposites Attract"	Chris Savino	Andy Bialk	June 14, 2002	308c
+61a	9a	"Comic Relief"	Chris Savino	Clayton McKenzie Morrow	June 21, 2002	310a
+61b	9b	"A Third Dad Cartoon"	Chris Savino	Chris Savino	June 21, 2002	310b
+61c	9c	"Robo-Dexo 3000"	John McIntyre & Chris Savino	Kevin Kaliher	June 21, 2002	310c
+62a	10a	"Glove at First Sight"	Robert Alvarez & Chris Savino	Cindy Morrow	June 28, 2002	311a
+62b	10b	"A Mom & Dad Cartoon"	Chris Savino	Cindy Morrow	June 28, 2002	311b
+62c	10c	"Smells Like Victory"	John McIntyre & Chris Savino	Paul McEvoy	June 28, 2002	311c
+63a	11a	"Oh, Brother"	Chris Savino	Greg Miller & Walt Dohrn	July 5, 2002	309a
+63b	11b	"Another Dad Cartoon"	Chris Savino	Cindy Morrow	July 5, 2002	309b
+63c	11c	"Bar Exam"	John McIntyre & Chris Savino	Shellie Kvilvang	July 5, 2002	309c
+64a	12a	"Jeepers, Creepers, Where Is Peepers"	David Smith	David Smith	July 12, 2002	313a
+64b	12b	"Go, Dexter Family! Go!"	John McIntyre & Chris Savino	Walt Dohrn	July 12, 2002	313b
+65a	13a	"Scare Tactics"	John McIntyre & Chris Savino	Walt Dohrn	September 20, 2002	312a
+65b	13b	"A Mom Cartoon"	Chris Savino	Chris Savino	September 20, 2002 (rerun)	312b
+65c	13c	"My Dad vs. Your Dad"	John McIntyre & Chris Savino	Cindy Morrow	September 20, 2002	312c
+66a	1a	"Beau Tie"	Don Judge & Chris Savino	Walt Dohrn	November 22, 2002	402a
+66b	1b	"Remember Me?"	Chris Savino	Kevin Kaliher	November 22, 2002	402b
+66c	1c	"Over-Labbing"	Don Judge & Chris Savino	Clayton McKenzie Morrow	November 22, 2002	402c
+67a	2a	"Sis-Tem Error"	Don Judge & Chris Savino	Mark O'Hare	April 25, 2003	401a
+67b	2b	"Bad Cable Manners"	Chris Savino	Clayton McKenzie Morrow	April 25, 2003	401b
+67c	2c	"Dexter's Library"	Don Judge & Chris Savino	Mark O'Hare	April 25, 2003	401c
+68a	3a	"The Scrying Game"	Chris Savino	Mike Stern	May 2, 2003	405a
+68b	3b	"Monstrosi-Dee Dee"	Don Judge & Chris Savino	Gabe Swarr	May 2, 2003	405b
+68c	3c	"Dad Man Walking"	Don Judge & Chris Savino	Carlos Ramos	May 2, 2003	405c
+69a	4a	"Dexter's Little Dilemma"	Don Judge & Chris Savino	Clayton McKenzie Morrow	May 9, 2003	403a
+69b	4b	"Faux Chapeau"	Don Judge & Chris Savino	Chris Reccardi	May 9, 2003	403b
+69c	4c	"D2"	Tim Walker & Chris Savino	Mark O'Hare	May 9, 2003	403c
+70a	5a	"Head Band"	Don Judge & Chris Savino	Kevin Kaliher	May 16, 2003	404a
+70b	5b	"Stuffed Animal House"	Chris Savino	Gabe Swarr	May 16, 2003	404b
+70c	5c	"Used Ink"	Don Judge & Chris Savino	Carlos Ramos	May 16, 2003	404c
+71a	6a	"School Girl Crushed"	Don Judge & Chris Savino	Charlie Bean	May 23, 2003	407a
+71b	6b	"Chess Mom"	Don Judge & Chris Savino	Charlie Bean	May 23, 2003	407b
+71c	6c	"Father Knows Least"	Don Judge & Chris Savino	Carlos Ramos	May 23, 2003	407c
+72a	7a	"Dexter the Barbarian"	Chris Savino	Chris Savino	May 30, 2003	406a
+72b	7b	"Tuber Time"	Don Judge & Chris Savino	Mark O'Hare	May 30, 2003	406b
+72c	7c	"Sore Eyes"	Don Judge & Chris Savino	Bill Wray	May 30, 2003	406c
+73a	8a	"Babe Sitter"	Robert Alvarez & Chris Savino	Mark O'Hare	September 5, 2003	413a
+73b	8b	"Mountain Mandark"	Don Judge & Chris Savino	Kevin Kaliher	September 5, 2003	413b
+73c	8c	"2Geniuses 2Gether 4Ever"	Don Judge & Chris Savino	Clayton McKenzie Morrow	September 5, 2003	413c
+74a	9a	"Height Unseen"	Don Judge & Chris Savino	Kevin Kaliher	September 12, 2003	408a
+74b	9b	"Bygone Errors"	Robert Alvarez & Chris Savino	Clayton McKenzie Morrow	September 12, 2003	408b
+74c	9c	"Folly Calls"	Don Judge & Chris Savino	Bobby London	September 12, 2003	408c
+75a	10a	"Voice Over"	Robert Alvarez & Chris Savino	Charlie Bean	September 19, 2003	409a
+75b	10b	"The Blonde Leading the Blonde"	Don Judge & Chris Savino	Aaron Springer	September 19, 2003	409b
+75c	10c	"Comic Stripper"	Don Judge & Chris Savino	Chris Reccardi	September 19, 2003	409c
+76a	11a	"Tee Party"	Don Judge & Chris Savino	Aaron Springer	September 26, 2003	410a
+76b	11b	"Dexter's Wacky Races"	Don Judge & Chris Savino	Chris Reccardi	September 26, 2003	410b
+77a	12a	"The Lab of Tomorrow"	Don Judge & Chris Savino	Charlie Bean	November 4, 2003	411a
+77b	12b	"Chicken Scratch"	Genndy Tartakovsky	Storyboard by: Genndy Tartakovsky	November 4, 2003[a]	411b
+77c	12c	"Garage Sale"	Don Judge & Chris Savino	Clayton McKenzie Morrow	November 4, 2003	411c
+78a	13a	"They Got Chops"	Chris Savino	Kevin Kaliher	November 20, 2003	412a
+78b	13b	"Poetic Injustice"	Robert Alvarez & Chris Savino	Mark O'Hare	November 20, 2003	412b
+78c	13c	"Comedy of Feathers"	Genndy Tartakovsky & Chris Savino	Genndy Tartakovsky	November 20, 2003	412c
